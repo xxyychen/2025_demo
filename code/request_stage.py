@@ -5,6 +5,7 @@
 def main():
     '''
     url编码
+    转换为 bytes类型
 
     '''
     # url编码
